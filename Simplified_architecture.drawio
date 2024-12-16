@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DiCBoK7EQ5oCpldY1Xnq-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="670" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="DiCBoK7EQ5oCpldY1Xnq-1" value="Teabekeskus/ Information Portal (web interface)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="460" height="50" as="geometry" />
         </mxCell>
