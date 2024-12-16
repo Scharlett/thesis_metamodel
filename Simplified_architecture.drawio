@@ -7,21 +7,6 @@
         <mxCell id="DiCBoK7EQ5oCpldY1Xnq-1" value="Teabekeskus/ Information Portal (web interface)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="460" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DiCBoK7EQ5oCpldY1Xnq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.122;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DiCBoK7EQ5oCpldY1Xnq-2" target="DiCBoK7EQ5oCpldY1Xnq-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="554" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DiCBoK7EQ5oCpldY1Xnq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DiCBoK7EQ5oCpldY1Xnq-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DiCBoK7EQ5oCpldY1Xnq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DiCBoK7EQ5oCpldY1Xnq-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DiCBoK7EQ5oCpldY1Xnq-2" value="Data catalogue" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="500" width="610" height="50" as="geometry" />
         </mxCell>
@@ -64,12 +49,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="550" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DiCBoK7EQ5oCpldY1Xnq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.721;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DiCBoK7EQ5oCpldY1Xnq-2" target="DiCBoK7EQ5oCpldY1Xnq-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DiCBoK7EQ5oCpldY1Xnq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.915;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DiCBoK7EQ5oCpldY1Xnq-2" target="DiCBoK7EQ5oCpldY1Xnq-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
