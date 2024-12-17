@@ -1,0 +1,35 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.com/catalog> a dcat:Catalog ;
+    dct:title "TEHIKu andmekataloog1@et" ;
+    dct:description "This is an example catalog to test the shapes" ;
+    dct:publisher [
+        a foaf:Agent ;
+        foaf:name "Tervise ja Heaolu Infosüsteemide Keskus" ;
+		dct:identifier "ID_00002";
+        foaf:mbox <mailto:info@tehik.ee>; 
+        foaf:homepage <https://www.tehik.ee/> ;
+
+    ] .
+
+
+<http://example.com/catalog/1> a dcat:Catalog ;
+    dct:description "TEHIKu andmekataloogis kirjeldatakse keskse tervise infosüsteemi kogutavad teenuste kirjeldused ning publitseeritakse teabekeskuses ja andmete teabeväravas."@et;
+    dct:identifier "http://example.com/catalog/1" ;
+    dct:issued "1992-01-06T00:00:00"^^xsd:dateTime ;
+    dct:title "TEHIKu andmekataloog@et" ;
+	dct:publisher [
+        a foaf:Agent ;
+        foaf:name "Tervise ja Heaolu Infosüsteemide Keskus" ;
+		dct:identifier "ID_00002";
+        foaf:mbox <mailto:info@tehik.ee>; 
+        foaf:homepage <https://www.tehik.ee/> ;
+    ] ;
+    dcat:dataset <http://example.com/dataset/immunisation_service1>,
+        <http://example.com/dataset/immunsations_sevice2>,
+        <http://example.com/dataset/COVID-19_opendata>,
+        <http://example.com/dataset/4> .
