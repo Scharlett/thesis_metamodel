@@ -1,4 +1,5 @@
 # Metamodel development in data catalogue using immunisation report dataset
+Repository for designed metamodel for data catalogue, including designs and examples
 
 ## Abstract
 
@@ -6,4 +7,3 @@ This thesis focuses on the development of a meta-model of a data catalogue for t
 The importance of this research stems from the need to improve the data management capacity of the Estonian health sector and to link it to international standards, thus supporting the objectives of European health data sharing. Using a design science research methodology, existing metadata management standards were analysed and a prototype metamodel was developed. The work evaluated the suitability of the healthDCAT-AP standard for the creation of health data catalogues in the Estonian context. This thesis is written in English and is 50 pages long, including 5 chapters, 6 figures and 1 table. All the sources used to write the research have been cited and 44 sources were used. The Google Scholar search engine was used to search for sources.
 The main results show that although healthDCAT-AP allows for generic metadata descriptions, it does not fully cover the specific needs of Estonian health data, especially in terms of semantic coherence and technical integration. The study underlines the need for the development of a data repository to support a more efficient sharing and re-use of health data at both national and international level. For this thesis, design research is utilised. 
 
-Repository for designed metamodel for data catalogue, including designs and examples
