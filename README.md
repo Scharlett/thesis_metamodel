@@ -13,5 +13,5 @@ Designed and developed artifacts that are place in this repository:
 1. Process model, adapted metadata management process - indicates how metadata management adds or receives added value from each subprocess, indicated in the model.
 2. Proposed conceptual metamodel to data catalogue - taken into consideration use cases, context and process model, therefore designed metamodel that takes into consideration the points or processes, where metadata emerges and each process affects the next.
 3. Simplified architecture model - designed on the basis of the data management body of knowledge, thus providing additional requirements to the data catalogue and metamodel.
-4. Simulation examples of immunisation report, used ttl language and healthDCAT-AP standard to simulate machine readable data descriptions and evaluate the conformance to reuirements, gathered during master thesis iterations.
+4. Simulation examples of immunisation report, used ttl language and healthDCAT-AP standard to simulate machine readable data descriptions and evaluate the conformance to requirements, gathered during master thesis iterations.
 
